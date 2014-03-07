@@ -1,4 +1,14 @@
-memhack
-=======
+MemHack
+==========
 
-A command line game cheat tool.
+This is a simple command line based game cheat tool.
+
+[Visit page](http://shixf.com/memhack/)
+
+##Screenshot
+
+![](https://raw.github.com/jenson-shi/memhack/master/screenshot.jpg)
+
+##Download
+
+[Download](https://github.com/jenson-shi/memhack/releases/download/v1.0/MemHack.zip)
