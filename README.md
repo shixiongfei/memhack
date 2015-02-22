@@ -3,7 +3,7 @@ MemHack
 
 This is a simple command line based game cheat tool.
 
-[Visit page](http://shixf.com/memhack/)
+[Visit page](http://shixf.com/wiki/projects/memhack)
 
 ##Screenshot
 
