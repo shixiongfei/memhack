@@ -3,8 +3,6 @@ MemHack
 
 This is a simple command line based game cheat tool.
 
-[Visit page](http://shixf.com/wiki/projects/memhack)
-
 ##Screenshot
 
 ![](https://raw.github.com/jenson-shi/memhack/master/screenshot.jpg)
